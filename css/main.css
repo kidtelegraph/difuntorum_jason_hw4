@@ -14,7 +14,7 @@ body{
 
 body::before {
     content: "";
-    background-image: url(https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dG8lMjBkbyUyMGxpc3R8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60);
+    background-image: url(https://images.unsplash.com/photo-1576096876569-0cffb1b1268d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2050&q=80);
     position: absolute;
     height: 100%;
     width: 100%;
@@ -28,7 +28,7 @@ body::before {
 header > h1{
     text-align: center;
     padding: 20px;
-	font-family: 'Edu NSW ACT Foundation', cursive;
+	font-family: 'korean calligraphy', cursive;
 }
 main{ text-align: center;}
 
@@ -61,7 +61,7 @@ ul{
 }
 
 article:first-of-type{
-    border-color: blue;
+    border-color: rgb(0, 213, 255);
 }
 
 article:first-of-type h2{
@@ -74,7 +74,7 @@ article:first-of-type h2{
 
 
 #done{ border-color: blueviolet; }
-#done h2{ color: mediumseagreen;}
+#done h2{ color: rgb(252, 112, 217);}
 
 ul li{
     padding: 6px  8px;
