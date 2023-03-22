@@ -28,7 +28,7 @@ body::before {
 header > h1{
     text-align: center;
     padding: 20px;
-	font-family: 'korean calligraphy', cursive;
+	font-family: 'helvetica', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 main{ text-align: center;}
 
